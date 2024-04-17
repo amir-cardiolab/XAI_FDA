@@ -3,7 +3,9 @@ Interpretable operator learning and posthoc/by-design XAI
 
 Codes and data used in the examples presented in the paper:\
 Interpreting and generalizing deep learning in physics-based problems with functional linear models\ 
-https://arxiv.org/abs/2307.04569  \
+https://arxiv.org/abs/2307.04569  
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% \
 Matlab codes: Matlab implementation uploaded. \
 Python codes: To be added in the future. 
